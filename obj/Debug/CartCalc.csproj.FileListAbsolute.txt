@@ -1,0 +1,8 @@
+C:\Users\mancr\source\repos\CartCalc\CartCalc\bin\Debug\CartCalc.exe.config
+C:\Users\mancr\source\repos\CartCalc\CartCalc\bin\Debug\CartCalc.exe
+C:\Users\mancr\source\repos\CartCalc\CartCalc\bin\Debug\CartCalc.pdb
+C:\Users\mancr\source\repos\CartCalc\CartCalc\obj\Debug\CartCalc.csproj.AssemblyReference.cache
+C:\Users\mancr\source\repos\CartCalc\CartCalc\obj\Debug\CartCalc.csproj.CoreCompileInputs.cache
+C:\Users\mancr\source\repos\CartCalc\CartCalc\obj\Debug\CartCalc.exe
+C:\Users\mancr\source\repos\CartCalc\CartCalc\obj\Debug\CartCalc.pdb
+C:\Users\mancr\source\repos\CartCalc\CartCalc\obj\Debug\CartCalc.exe.config
